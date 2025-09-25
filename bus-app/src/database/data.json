@@ -1,0 +1,239 @@
+{
+  "products": {
+    "cities": [
+      "Mumbai", "Delhi", "Bangalore", "Hyderabad", "Ahmedabad", "Chennai", "Kolkata", "Surat", "Pune", "Jaipur",
+      "Lucknow", "Kanpur", "Nagpur", "Indore", "Thane", "Bhopal", "Visakhapatnam", "Pimpri-Chinchwad", "Patna",
+      "Vadodara", "Ghaziabad", "Ludhiana", "Agra", "Nashik", "Faridabad", "Meerut", "Rajkot", "Varanasi",
+      "Srinagar", "Aurangabad", "Dhanbad", "Amritsar", "Navi Mumbai", "Allahabad", "Ranchi", "Howrah",
+      "Coimbatore", "Jabalpur", "Gwalior", "Vijayawada", "Jodhpur", "Madurai", "Raipur", "Kota", "Guwahati",
+      "Chandigarh", "Solapur", "Hubli-Dharwad", "Mysore", "Tiruchirappalli", "Bareilly", "Aligarh", "Tiruppur",
+      "Gurgaon", "Moradabad", "Jalandhar", "Bhubaneswar", "Salem", "Warangal", "Guntur", "Bhiwandi", "Saharanpur",
+      "Gorakhpur", "Bikaner", "Amravati", "Noida", "Jamshedpur", "Bhilai", "Cuttack", "Firozabad", "Kochi",
+      "Nellore", "Dehradun", "Durgapur", "Asansol", "Rourkela", "Nanded", "Kolhapur", "Ajmer", "Gulbarga", "Loni",
+      "Ujjain", "Siliguri", "Jhansi", "Ulhasnagar", "Jammu", "Sangli-Miraj & Kupwad", "Mangalore", "Erode",
+      "Belgaum", "Ambattur", "Tirunelveli", "Malegaon", "Gaya", "Jalgaon", "Udaipur", "Maheshtala", "Goa", "Ara"
+    ],
+    "bus": [
+      {
+        "id": 1,
+        "from": "Bangalore",
+        "to": "Chennai",
+        "date": "09-11-2025",
+        "name": "GreenLine Express",
+        "seats": "32",
+        "image": "https://imgs.search.brave.com/NgNYUHNZss1Anb5EhUfL5KhX4oldtSmBweGXDIXTq24/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zMS5y/ZGJ1ei5jb20vYm8t/aW1hZ2VzL0lORC9X/TS8zNjAxLzQvRlIv/TUwvd2VicC8ybkNG/V3gud2VicA",
+        "price": "450.00",
+        "desc": "Comfortable AC bus service."
+      },
+      {
+        "id": 2,
+        "from": "Bangalore",
+        "to": "Mysore",
+        "date": "09-11-2025",
+        "name": "CityLink Travels",
+        "seats": "28",
+        "image": "https://imgs.search.brave.com/bWAtR000mdT59QS1s1J0GiH5Y0n5oQCS3JnbFLWq73I/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMucmFpbHlhdHJp/LmluL3J5X2ltYWdl/c19wcm9kL090aGVy/LU9wZXJhdG9ycy0x/NjAzOTc5NTU1LnBu/Zw",
+        "price": "220.00",
+        "desc": "Fast and reliable service."
+      },
+      {
+        "id": 3,
+        "from": "Bangalore",
+        "to": "Hyderabad",
+        "date": "09-11-2025",
+        "name": "Royal Rider",
+        "seats": "40",
+        "image": "https://imgs.search.brave.com/bWAtR000mdT59QS1s1J0GiH5Y0n5oQCS3JnbFLWq73I/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMucmFpbHlhdHJp/LmluL3J5X2ltYWdl/c19wcm9kL090aGVy/LU9wZXJhdG9ycy0x/NjAzOTc5NTU1LnBu/Zw",
+        "price": "850.00",
+        "desc": "Premium sleeper coach."
+      },
+      {
+        "id": 4,
+        "from": "Hyderabad",
+        "to": "Chennai",
+        "date": "09-11-2025",
+        "name": "MetroLink",
+        "seats": "20",
+        "image": "https://imgs.search.brave.com/WJMZGlseOVlpqaT1PIeSa3k5eGqydF_s5BcZk5umWVQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/dGVhbS1iaHAuY29t/L2ZvcnVtL2F0dGFj/aG1lbnRzL2NvbW1l/cmNpYWwtdmVoaWNs/ZXMvMTA2Mjc4MmQx/NjkxNTE4MTg4dC1w/aWNzLXNjYW5pYS1t/ZXRyb2xpbmstYnVz/LWltZ18xMzc4Lmpw/Zw",
+        "price": "600.00",
+        "desc": "Direct route with quick boarding."
+      },
+      {
+        "id": 5,
+        "from": "Hyderabad",
+        "to": "Bangalore",
+        "date": "09-11-2025",
+        "name": "SuperJet",
+        "seats": "10",
+        "image": "https://imgs.search.brave.com/JHk_43t63bH-1db8hvTw0dvy6qKjRHak0EMieNSipq4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9taXIt/czMtY2RuLWNmLmJl/aGFuY2UubmV0L3By/b2plY3RfbW9kdWxl/cy8xNDAwX3dlYnAv/MzhlZWIxOTY4MzQ3/NjUuNWViNzZkYWYx/YzY2ZS5qcGc",
+        "price": "700.00",
+        "desc": "Luxury seating with free WiFi."
+      },
+      {
+        "id": 6,
+        "from": "Hyderabad",
+        "to": "Mysore",
+        "date": "09-11-2025",
+        "name": "RVL Express",
+        "seats": "36",
+        "image": "https://imgs.search.brave.com/U7yHssx2iu86sE7s1C7K2aFwhxGDDoUbx6alKao7zm0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/cm12LmRlL2MvZmls/ZWFkbWluL19wcm9j/ZXNzZWRfLzcvNS9j/c21fWEJ1c19lN2Nk/MTcxYjU4LmpwZw",
+        "price": "499.00",
+        "desc": "Affordable AC bus service."
+      },
+      {
+        "id": 7,
+        "from": "Chennai",
+        "to": "Bangalore",
+        "date": "09-11-2025",
+        "name": "VRL Comfort",
+        "seats": "41",
+        "image": "https://imgs.search.brave.com/Ry1-1KLBf9k4ato1wBeHSihyyOh5YXMHOc3_HQAYSrs/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zMS5y/ZGJ1ei5jb20vYm8t/aW1hZ2VzL0lORC9X/TS8yNTMzOC8zNS9T/SS9NTC93ZWJwL3pq/RFJDRC53ZWJw",
+        "price": "999.00",
+        "desc": "Comfortable and fast travel."
+      },
+      {
+        "id": 8,
+        "from": "Jamshedpur",
+        "to": "Ranchi",
+        "date": "09-11-2025",
+        "name": "Shiv-Shakti",
+        "seats": "45",
+        "image": "https://imgs.search.brave.com/L3-lyGVSPEfq8Tv0F3Y0kMcAR8kQ0V9QG3pBiue4mhk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zaGl2/c2hha3RpdHJhdmVs/cy5jby5pbi9zaGl2/c2hha3RpdHJhdmVs/c2p1bmFnYWRoL3Ns/aWRlci9pbWFnZXMv/c2l0ZS9vbmxpbmUt/YnVzLXRpY2tldC1i/b29raW5nLXNoaXYt/c2hha3RpLXRyYXZl/bHMtanVuYWdhZGgu/d2VicA",
+        "price": "250.00",
+        "desc": "Budget-friendly service."
+      },
+      {
+        "id": 9,
+        "from": "Ranchi",
+        "to": "Jamshedpur",
+        "date": "09-11-2025",
+        "name": "Shiv-Shakti Plus",
+        "seats": "15",
+        "image": "https://imgs.search.brave.com/7HETObzVGPXm-sgmJet_m6MMPejg2JvWPWdojATUTxk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zMS5y/ZGJ1ei5jb20vYm8t/aW1hZ2VzL0lORC9X/TS8yMDExNi8yMzcv/U0kvTUwvd2VicC9Y/M0lwdncud2VicA",
+        "price": "259.00",
+        "desc": "Quick and reliable."
+      },
+      {
+        "id": 10,
+        "from": "Jamshedpur",
+        "to": "Ara",
+        "date": "09-11-2025",
+        "name": "Shiv-Shakti Gold",
+        "seats": "45",
+        "image": "https://imgs.search.brave.com/jkhfc4XVde45WYnVqtViirDKXyPaYOLtdkMTmf3bMTI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zMS5y/ZGJ1ei5jb20vYm8t/aW1hZ2VzL0lORC9X/TS8xOTUzMy8xOTUv/U0kvTUwvd2VicC9P/TEF4MVIud2VicA",
+        "price": "699.00",
+        "desc": "AC luxury bus."
+      },
+      {
+        "id": 11,
+        "from": "Bangalore",
+        "to": "Goa",
+        "date": "10-11-2025",
+        "name": "SeaView Express",
+        "seats": "40",
+        "image": "https://imgs.search.brave.com/q8h4Wx-K7Y3lIobRQP5LPIMu0bGcKfQIlDtz4UE1sPQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90aHVt/YnMuZHJlYW1zdGlt/ZS5jb20vYi9sb3ct/ZnJvbnQtYW5nbGUt/c2hvdC1wdWJsaWMt/c2Nob29sLWJ1cy12/aWV3LXllbGxvdy1l/bGVtZW50YXJ5LXRy/YW5zcG9ydGF0aW9u/LXN0dWRlbnRzLTEw/NzM4OTUyMC5qcGc",
+        "price": "850.00",
+        "desc": "Comfortable overnight bus."
+      },
+      {
+        "id": 12,
+        "from": "Goa",
+        "to": "Bangalore",
+        "date": "10-11-2025",
+        "name": "Coastal Rider",
+        "seats": "35",
+        "image": "https://imgs.search.brave.com/_aLX6sJU3Gd8keOaCIKQ3URasNWWwCyuzBYUri01Ek0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90aHVt/YnMuZHJlYW1zdGlt/ZS5jb20vYi9idXMt/Y2hhcnRlci10b3Vy/LXJpZGVzLTIxNzcz/NTkuanBn",
+        "price": "850.00",
+        "desc": "Direct AC service."
+      },
+      {
+        "id": 13,
+        "from": "Mumbai",
+        "to": "Pune",
+        "date": "11-11-2025",
+        "name": "Western Express",
+        "seats": "50",
+        "image": "https://imgs.search.brave.com/mKsztjhBsTTdhiuE4IjPvooQhxJSNF8yAMGm8Oai9iw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/Y29hY2h1c2EuY29t/L19uZXh0L2ltYWdl/P3VybD1odHRwczov/L2ltYWdlcy5jdGZh/c3NldHMubmV0L251/dGx3dWYxdjBveS8z/RzVxUGo0YjBNU0ZG/bDhnUjFBOW9DLzgy/ODVmMDNjZjdiZTA3/Yzk4YzRkYzk2M2Zh/NmFhYjM5L25ld2Fy/ay1hZS5wbmc_Zm09/anBnJnc9NjQwJnE9/NzU",
+        "price": "300.00",
+        "desc": "Fast city-to-city service."
+      },
+      {
+        "id": 14,
+        "from": "Pune",
+        "to": "Mumbai",
+        "date": "11-11-2025",
+        "name": "CityLink Mumbai",
+        "seats": "48",
+        "image": "https://imgs.search.brave.com/eO8LetxYr92U-1Z77npCRV_map2UFc5JYjU89pG-v6w/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9nc3Qt/Y29udHJhY3RzLnMz/LmFwLXNvdXRoZWFz/dC0xLmFtYXpvbmF3/cy5jb20vdXBsb2Fk/cy9iY2MvY21zL2Fz/c2V0L2F2YXRhci81/NDAzOC9iYW5uZXJf/Q2l0eUxpbmtUcmF2/ZWxzQmFubmVyLmpw/Zw",
+        "price": "300.00",
+        "desc": "Comfortable seating."
+      },
+      {
+        "id": 15,
+        "from": "Delhi",
+        "to": "Agra",
+        "date": "12-11-2025",
+        "name": "Taj Express",
+        "seats": "42",
+        "image": "https://imgs.search.brave.com/bWAtR000mdT59QS1s1J0GiH5Y0n5oQCS3JnbFLWq73I/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMucmFpbHlhdHJp/LmluL3J5X2ltYWdl/c19wcm9kL090aGVy/LU9wZXJhdG9ycy0x/NjAzOTc5NTU1LnBu/Zw",
+        "price": "500.00",
+        "desc": "Luxury AC bus."
+      },
+      {
+        "id": 16,
+        "from": "Agra",
+        "to": "Delhi",
+        "date": "12-11-2025",
+        "name": "Monument Rider",
+        "seats": "42",
+        "image": "https://imgs.search.brave.com/-4A2qUqZq0SWJPnXnLCJxtuAO-FzClMEKXrMfypwh_Y/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/bnBzLmdvdi9jb21t/b24vdXBsb2Fkcy9n/cmlkX2J1aWxkZXIv/ZnJyaS9jcm9wMTZf/OS8zRjI4ODA0OS1C/MTIxLTkxMEEtRTU4/NTMzNDM4RjQ1NTdF/Ri5qcGc_d2lkdGg9/NjQwJnF1YWxpdHk9/OTAmbW9kZT1jcm9w",
+        "price": "500.00",
+        "desc": "Quick and safe service."
+      },
+      {
+        "id": 17,
+        "from": "Kolkata",
+        "to": "Durgapur",
+        "date": "13-11-2025",
+        "name": "EastLink",
+        "seats": "40",
+        "image": "https://imgs.search.brave.com/Dik7aZzK-e5pnhSPxF2Y3dGtcA6Sy76B1qHXsBA3LKI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy9h/L2E1L0Vhc3RsaW5r/X2ZpcnN0X2RheV9v/cGVuLmpwZw",
+        "price": "400.00",
+        "desc": "Affordable service."
+      },
+      {
+        "id": 18,
+        "from": "Durgapur",
+        "to": "Kolkata",
+        "date": "13-11-2025",
+        "name": "EastLink Plus",
+        "seats": "40",
+        "image": "https://imgs.search.brave.com/0FdNInAtg4W60RSHoa5bGUxTI1bkRypiKw2fygtPMRU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9iLnRo/dW1icy5yZWRkaXRt/ZWRpYS5jb20vbVFf/XzJtcS12bUFEWG5V/U05DMmJSZlpja0hl/cDcwM2pId1ZYUzY4/WC1FWS5qcGc",
+        "price": "400.00",
+        "desc": "Comfortable AC bus."
+      },
+      {
+        "id": 19,
+        "from": "Chennai",
+        "to": "Coimbatore",
+        "date": "14-11-2025",
+        "name": "Southern Rider",
+        "seats": "35",
+        "image": "https://imgs.search.brave.com/jemQlP3P2pD5cXnS4oB_z0NcR4byaiFh4z6Z-piyOOE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/YnVzcGhvdG8uY28u/dWsvaW1hZ2UucGhw/P21lZGlhSUQ9TVRr/eU1USXhNRGRtWW1F/MU9UazNNUT09JnR5/cGU9dGh1bWImZm9s/ZGVySUQ9T0RVNE1E/ZG1ZbUUxT1RrM01R/PT0mc2VvPUpCUjY4/OFQtU291dGgtUmlk/aW5nLFNoZWZmaWVs/ZC1Ob3J0aHVtYnJp/YS1NUy1Vbml0ZWQt/QVM",
+        "price": "350.00",
+        "desc": "AC and non-AC buses available."
+      },
+      {
+        "id": 20,
+        "from": "Coimbatore",
+        "to": "Chennai",
+        "date": "14-11-2025",
+        "name": "Southern Comfort",
+        "seats": "35",
+        "image": "https://imgs.search.brave.com/lMdoD1nyKb0aq-hkMPOLmpdsAk4f1bosvZhmgb8KK2k/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90aHVt/YnMuZHJlYW1zdGlt/ZS5jb20vYi9zY2Vu/aWMtYmFjay12aWV3/LWJpZy1sdXh1cnkt/d2hpdGUtY29tZm9y/dGFibGUtdG91cmlz/dC1idXMtZHJpdmlu/Zy1oaWdod2F5LWJy/aWdodC1zdW5ueS1k/YXktbW91bnRhaW4t/bGFuZHNjYXBlLTM2/OTE2NzYwNi5qcGc",
+        "price": "350.00",
+        "desc": "Reliable bus service."
+      }
+    ]
+  }
+}
