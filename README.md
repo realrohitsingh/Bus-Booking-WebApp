@@ -16,14 +16,6 @@ A user-friendly and efficient web application for booking bus tickets online. Th
 
 -----
 
-## 🛠️ Technologies Used
-
-  * **Frontend:** HTML, CSS, JavaScript
-  * **Backend:** (Please specify the backend technology used, e.g., Node.js, Python with Django/Flask, Java with Spring, etc.)
-  * **Database:** (Please specify the database used, e.g., MongoDB, MySQL, PostgreSQL, etc.)
-
------
-
 ## ⚙️ Installation and Setup
 
 1.  **Clone the repository:**
