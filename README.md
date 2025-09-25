@@ -1,5 +1,3 @@
-Of course, I can help with that. Here is a comprehensive README file for your Bus-Booking-WebApp project.
-
 # Bus Booking WebApp
 
 A user-friendly and efficient web application for booking bus tickets online. This application provides a seamless experience for users to search for buses, select seats, and make payments.
